@@ -1,7 +1,9 @@
-<p align="center">
-I'm Chris Sophiea. I graduated from Arizona State University in May of 2020 with a degree in Applied Computing. At ASU I built a solid foundation in object-oriented programming, database development and web development. Since becoming an associate with Revature, I've worked on a few full-stack .NET projects, including a video-game store using ASP.NET MVC, a social media web-site for space fans using ASP.NET Web APIs and an Angular front-End, and the last project was a little-league team management studio using an Angular front-end and ASP.NET API microservices in the back-end.</p>
+<h1 align="center">Hi there 👋</h1>
 
-<div align="center">![sofire07's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sofire07&show_icons=true&theme=radical)</div>
+<p align="center">
+I'm Chris Sophiea. I graduated from Arizona State University in May of 2020 with a degree in Applied Computing. At ASU I built a solid foundation in object-oriented programming, database development and web development. Since becoming an associate with Revature, I've worked on a few full-stack .NET projects, including a video-game store using ASP.NET MVC, a social media web-site for space fans using ASP.NET Web APIs and an Angular front-End, and a little-league team management studio using an Angular front-end and ASP.NET API microservices in the back-end.</p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sofire07&show_icons=true&theme=radical"></p>
 
 
 <!--
