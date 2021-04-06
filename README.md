@@ -1,9 +1,10 @@
 ### Hi there 👋
+[![Sofire07's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sofire07)](https://github.com/Sofire07/github-readme-stats)
 
 <!--
 **sofire07/sofire07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Sofire07's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sofire07)](https://github.com/Sofire07/github-readme-stats)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
